@@ -24,7 +24,7 @@ document.querySelector('form').addEventListener('submit', (event) => {
 	linkInput.select();
 });
 
-button om kopieren makkeleijker te maken
+//button om kopieren makkeleijker te maken
 const linkInput = document.getElementById('link-input');
 
 const btnCopy = document.getElementById('copy-text');
